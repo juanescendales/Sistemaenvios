@@ -1,3 +1,4 @@
 public class Cliente extends  Usuario{
-    public String cual;
+    public String cuales;
+    public String otroAtributo;
 }
